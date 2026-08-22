@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"b5071656788f614c","type":"text","text":"[[00_START_HERE 🚀]]","x":-321,"y":-213,"width":250,"height":60},
+		{"id":"81d32532df554680","type":"text","text":"[[01_BASIC_QUERIES 🎬]]","x":-20,"y":-213,"width":250,"height":60},
+		{"id":"943336271f80feef","type":"text","text":"[[02_QUERIES_WITH_CONSTRAINTS_PART_1 👮🏽]]","x":300,"y":-213,"width":250,"height":60},
+		{"id":"564615306dcae3a6","type":"text","text":"[[02_QUERIES_WITH_CONSTRAINTS_PART_2 👮🏻‍♂️]]","x":620,"y":-213,"width":250,"height":60},
+		{"id":"2bc46494caa984be","type":"text","text":"[[03_FILTERING_AND_SORTING ✂️]]","x":940,"y":-213,"width":250,"height":60},
+		{"id":"b208d329ab239a68","x":940,"y":-68,"width":250,"height":88,"type":"text","text":"🚀 **Coming Soon in Part 2:** Multi-table relational queries"}
+	],
+	"edges":[
+		{"id":"c14df3c2d700e5ad","fromNode":"b5071656788f614c","fromSide":"right","toNode":"81d32532df554680","toSide":"left"},
+		{"id":"575a1fd24c3fe1a6","fromNode":"81d32532df554680","fromSide":"right","toNode":"943336271f80feef","toSide":"left"},
+		{"id":"55a66d139ab41820","fromNode":"943336271f80feef","fromSide":"right","toNode":"564615306dcae3a6","toSide":"left"},
+		{"id":"27a1169208d80508","fromNode":"564615306dcae3a6","fromSide":"right","toNode":"2bc46494caa984be","toSide":"left"},
+		{"id":"a2ff86233ff05be6","fromNode":"2bc46494caa984be","fromSide":"bottom","toNode":"b208d329ab239a68","toSide":"top"}
+	]
+}
